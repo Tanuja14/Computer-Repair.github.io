@@ -1,0 +1,360 @@
+html,body{
+	padding: 0px;
+	margin: 0px;
+	overflow-x: hidden;
+	font-size: 14px;
+
+}
+.h-line{
+	border-top: 5px solid #03628F;
+	margin-bottom: 20px;
+}
+.contact{
+	display: flex;
+	padding-left: 30%;
+}
+.contact p{
+	 padding-right: 10%;
+}
+.contact img{
+	padding-right: 10px;
+    padding-bottom: 20px;
+    margin-top: 18px;
+}
+.contact span{
+	font-size: 15px;
+	color: #03628F;
+}
+.menu li{
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#active a{
+	margin-left: 30px;
+	color: #03628F;
+	border-bottom: 1px solid;
+	
+}
+.menu a{
+	color:black;
+	/*font-size: 16px;*/
+	font-weight: bold;
+
+}
+.menu a:hover{
+	text-decoration: none;
+}
+/*=======================header ================================*/
+#jpg1 h2{
+	color: white;
+	background-color: #03628F;
+	width: 200px;
+    padding: 10px;
+}
+
+
+#jpg1 span{
+	text-align: center;
+}
+
+.middle img{
+		width: 100%;
+}
+
+
+/*====================  house  ==================*/
+.h-left{
+	padding-top: 150px;
+	padding-left: 20px;
+}
+.h-left h2{
+	color: #B3357C;
+}
+/*===================  welcome  ================*/
+.w-left{
+	padding-top: 70px;
+	padding-left: 50px;
+}
+.w-right img{
+	width: 480px;
+	padding-top: 50px;
+}
+.w-left a{
+	background-color: #B3357C;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
+.w-left h3{
+		color:  #B3357C;
+}
+/*===============  service  ===============*/
+.section{
+	/*background: url('../images/ERIGO associates_bg.png');*/
+	background-color: #F5F5F5;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+.offer{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.s-right{
+	border-left: 3px solid #B3357C;
+	height: 70px;
+}
+.s-right p{
+	    padding-left: 30px;
+}
+.s-left{
+	padding-left: 50px;
+	color: #B3357C;
+}
+.design{
+	padding-left: 50px;
+	padding-right: 30px;
+	
+}
+.d-one i{
+	font-size: 130px;
+    /*margin-left: 103px;*/
+    color: #03628F;
+}
+.d-two i{
+	font-size: 130px;
+	color:  #03628F;
+}
+.d-ones i{
+	font-size: 120px;
+	color:  #03628F;
+}
+.d-three i{
+	font-size: 130px;
+	color:  #03628F;
+}
+.d-twos i{
+	font-size: 100px;
+	color:  #03628F;
+	padding-bottom: 23px;
+
+}
+.d-threes i{
+	font-size: 100px;
+	color:  #03628F;
+	padding-bottom: 28px;
+}
+.d-one{
+	box-shadow: 0px 0px 3px;
+	    margin: 20px;
+	    padding-left: 15px;
+	    padding-top: 20px;
+	    text-align: center;
+	    padding-bottom: 20px;
+}
+.d-ones{
+	box-shadow: 0px 0px 3px;
+	    margin: 20px;
+	    padding-left: 15px;
+	    padding-top: 20px;
+	    text-align: center;
+	    padding-bottom: 20px;
+}
+.service h2{
+	color: #03628F;
+	text-align: center;
+}
+.d-one h5{
+	color: #03628F;
+}
+.d-ones h5{
+	color: #03628F;
+}
+.d-two h5{
+	color: #03628F;
+}
+.d-twos h5{
+	color: #03628F;
+}
+.d-three h5{
+	color: #03628F;
+}
+.d-threes h5{
+	color: #03628F;
+}
+
+.d-two{
+	box-shadow: 0px 0px 3px;
+	    margin: 20px;
+	     padding-left: 15px;
+	      padding-bottom: 20px;
+	        padding-top: 20px;
+	        text-align: center;
+	    }
+.d-three{
+	box-shadow: 0px 0px 3px;
+	    margin: 20px;
+	     padding-left: 15px;
+	       padding-top: 20px;
+	       text-align: center;
+	       padding-bottom: 20px;
+}
+
+.design a{
+	float: right;
+	color: #762F5A;
+}
+.design h6{
+	color: #762F5A;
+}
+.d-twos{
+	box-shadow: 0px 0px 3px;
+	    margin: 20px;
+	     padding-left: 15px;
+	        padding-top: 20px;
+	     text-align: center;
+	     padding-bottom: 15px;
+}
+.d-threes{
+	box-shadow: 0px 0px 3px;
+	    margin: 20px;
+	     padding-left: 15px;
+	       padding-top: 20px;
+	       padding-bottom: 10px;
+	        text-align: center;
+}
+
+#c-us{
+	color: #03628F;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+.mobile img{
+     padding-left: 30px;
+}
+#life h5{
+	color: #03628F;
+}
+#life p{
+	color: grey;
+}
+
+
+/*===============  blog  ===============*/
+.blog{
+	padding-top: 30px;
+	padding-right: 20px;
+}
+.b-left{
+	padding-left: 50px;
+	border-right: 3px solid #762F5A;
+	color: #762F5A;
+	
+}
+.b-image img{
+	width: 400px;
+	padding-left: 50px;
+}
+.b-image h4{
+	color:  #762F5A;
+	padding-top: 70px;
+}
+.b-image a{
+	color:  white;
+	margin-left: 40%;
+	background-color:  #762F5A;
+	padding: 10px;
+
+}
+.c-left{
+	padding-left: 50px;
+	margin-top: 50px;
+	border-right: 3px solid #03628F;
+	color: #03628F;
+}
+.c-right{
+	margin-top: 50px;
+}
+.wilson{
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 30px;
+}
+.star li{
+	display: inline-block;
+}
+.star ul{
+	padding-right: 35px;
+	color: #FECF18;
+}
+/*==================  footer  =================*/
+.footer{
+	background-color: #03628F;
+	color: white;
+	padding-top: 20px;
+}
+.footer img{
+	width: 650px;
+}
+.f-line p{
+	position: relative;
+}
+.f-line p::after{
+	position: absolute;
+	content: '';
+	border: 1px solid;
+	left: 0px;
+	right: 0px;
+	top: -10px;
+	margin: 0px auto;
+	width: 495px;
+}
+.f-line{
+	padding-right: 25%;
+	padding-top: 30px;
+	text-align: right;
+}
+.social h6{
+	position: relative;
+}
+.social h6::after{
+	position: absolute;
+	content: '';
+	border: 1px solid;
+	left: 0px;
+	right: 0px;
+	margin: 0px auto;
+	top: 50px;
+	width: 331px;
+}
+.last{
+	height: 30px;
+	background-color: black;
+}
+.social ul{
+	list-style-type: none;
+	margin-top: -25px;
+}
+.social li{
+	display: inline-block;
+}
+.social i{
+	color: white;
+	padding: 5px 8px;
+	border-radius: 50px;
+}
+.tanu{
+	margin-top: -36%;
+    padding-right: 85px;
+    float: right;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 640px){
+	.h-left h2{
+		background-color: red;
+	}
+}
